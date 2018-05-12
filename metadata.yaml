@@ -1,0 +1,34 @@
+_repo: Aurora-the-Magnificent_30642
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leake, Gerald
+    birthdate: 1885
+    gutenberg_agent_id: '34730'
+    url: http://www.gutenberg.org/2009/agents/34730
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brownell, Gertrude Hall
+    alias: Hall, Gertrude
+    birthdate: 1863
+    deathdate: 1961
+    gutenberg_agent_id: '2737'
+    url: http://www.gutenberg.org/2009/agents/2737
+description: ''
+gutenberg_issued: '2009-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30642'
+  lccn: '17010200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Aurora the Magnificent
+url: http://www.gutenberg.org/ebooks/30642
